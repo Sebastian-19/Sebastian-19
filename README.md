@@ -33,12 +33,6 @@ Soy **Data Analyst / Analytics Engineer** apasionado por transformar datos bruto
 ### 🏎️ [Análisis Histórico de Grandes Premios - Fórmula 1](https://github.com/Sebastian-19/ProyectoF1.git)
 * **Descripción:** Procesamiento, limpieza y modelado de datos históricos sobre la F1 en SQL Server. Se aplicaron técnicas de estandarización, normalización y consultas avanzadas (subconsultas y CTEs) para estructurar las relaciones entre circuitos, pilotos y clasificaciones, finalizando con la construcción de un tablero interactivo para explorar el rendimiento y estadísticas clave por Gran Premio.
 * **Tecnologías:** SQL Server, T-SQL, Power BI, DAX.
----
-
-## 📈 Estadísticas de GitHub
-
-![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Sebastian-19&show_icons=true&theme=radial)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-19&layout=compact&theme=radial)
 
 ---
 
